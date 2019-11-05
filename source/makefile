@@ -3,7 +3,7 @@
 all: compile javadoc
 
 compile:
-	(rm -r classes/eduni)
+	(rm -fr ../classes/eduni)
 	(javac -d ../classes eduni/simjava/*.java)
 	(javac -d ../classes eduni/simjava/distributions/*.java)
 	(javac -d ../classes eduni/simanim/*.java)
