@@ -6,49 +6,20 @@
 
 Version: SimJava 2.0
 
-Simulation date:         November 5, 2019
-Simulation start time:   12:31:33 PM CST
-Simulation end time:     12:31:33 PM CST
+Simulation date:         November 6, 2019
+Simulation start time:   11:26:18 AM CST
+Simulation end time:     11:26:18 AM CST
 
 ############################################################
 #            Overall simulation run information            #
 ############################################################
 
-Total simulated time:    99152.64501110879
+Total simulated time:    145.4429474342595
 Total transient time:    0.0
-Total steady state time: 99152.64501110879
+Total steady state time: 145.4429474342595
 Transient condition:     None
 Termination condition:   None
 Output analysis method:  None
 
-############################################################
-#               Simulation run measurements                #
-############################################################
-
---------------------------- CPU ----------------------------
-
-- Throughput
-
-Sample mean:          0.0010085459645458401
-Event count:          100
-
-- Residence time
-
-Sample mean:          50.695912144017456
-Sample variance:      61.84392059546945
-Sample std deviation: 7.864090576504664
-Maximum:              87.67605365159397
-Minimum:              39.3594357079528
-
--------------------------- Disk1 ---------------------------
-
-- Utilisation
-
-Sample mean:          0.01636896450685001
-
--------------------------- Disk2 ---------------------------
-
-- Utilisation
-
-Sample mean:          0.004448542476801296
-
+Travellers with 1 bags, have an average residence time of: 8.509200
+Travellers with 2 bags, have an average residence time of: 74.151582

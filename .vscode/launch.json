@@ -6,13 +6,6 @@
             "request": "launch",
             "mainClass": "app.Simulation",
             "projectName": "simjava_project"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - App",
-            "request": "launch",
-            "mainClass": "app.App",
-            "projectName": "simjava_project"
         }
     ]
 }
