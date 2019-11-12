@@ -22,7 +22,7 @@ public class Simulation {
     public static void main(String[] args) {
         Sim_system.initialise();
 
-        Source source = new Source("Source", LAMBDA, 2);
+        Source source = new Source("Source", LAMBDA, 1000);
         LeaveBags leaveBags = new LeaveBags("LeaveBags", DELTA);
         Screen screen = new Screen("Screen", (SIGMA_GAMMA), OMEGA);
         BagPickup bagPickup = new BagPickup("BagPickup", GAMMA);
